@@ -64,6 +64,10 @@ THEN that will be shown on the page, and added to their transaction history when
 
 ---
 
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Hint
 
 - In order to cache dynamic content, i.e. users' inputs for withdrawals or deposits, incorporate `indexedDB` from the previous module.
